@@ -1,0 +1,1 @@
+This project is a simple, responsive e-commerce website built using HTML, CSS, and JavaScript. Shoe Haven provides a seamless shopping experience with a modern, user-friendly interface, showcasing premium quality shoes that blend comfort and style for every occasion.
